@@ -4,7 +4,7 @@
 ## [Coursera Python for Everybody Specialization](https://www.coursera.org/specializations/python):
 1- [Getting started with Python](https://www.coursera.org/learn/python?specialization=python)
 
-2- [Data Structure](https://www.coursera.org/learn/python-data?specialization=python)
+2- [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
 <hr>
 
 ## [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming):
