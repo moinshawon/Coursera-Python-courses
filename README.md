@@ -15,3 +15,5 @@
 3- [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming)
 
 4- [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming)
+
+5- [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project)
