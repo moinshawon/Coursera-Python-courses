@@ -1,7 +1,0 @@
-Name	Age	Country	Rules	Full	Break	Break	Break	Break	break					upper
-moin	26	 BD	male sigma rule	male sigma rule BD	male	sigma	rule	BD	male 	sigma rule				lower
-raihan	27	 BD	male sigma rule	male sigma rule BD	male	sigma	rule	BD	male 	sigma rule				proper
-rifat	23	UK	mental boy	mental UK	mental	UK			mental 	boy				removing space
-arnob	26	BD	cat owner	programming hero	programming	hero			cat 	owner				trim
-														combining two column's data
-														breaking two column's data by text to column
